@@ -1,0 +1,4 @@
+# Welcome
+Welcome to the Digital Health and Care Wales Shared Medication Record Project
+## Overview
+The Shared Medicines Record focusses on bringing together multiple, disparate systems and data silos who produce and consume digital medication records into a “single source of truth”. This will also contain allergies, intolerances, and other sensitivity records at a patient level. SMR will leverage current data sources such as Welsh GP Record and Welsh Clinical Portal to present a common API to support product and dose based prescribing use cases for DHCW, NHS Wales and 3rd Party systems to consume.
